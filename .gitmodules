@@ -1,0 +1,6 @@
+[submodule "KingoDisco-Backend"]
+	path = KingoDisco-Backend
+	url = https://github.com/ilkay-ivrendi/KingoDisco-Backend.git
+[submodule "KingoDisco-frontend"]
+	path = KingoDisco-frontend
+	url = https://github.com/ilkay-ivrendi/KingoDisco-frontend.git
